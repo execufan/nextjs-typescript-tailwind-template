@@ -2177,9 +2177,9 @@ tailwind-merge@^2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/tailwind-merge/-/tailwind-merge-2.6.0.tgz#ac5fb7e227910c038d458f396b7400d93a3142d5"
 
-tailwindcss@4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.6.tgz#c033bfba94d6e3bf70650a2f9fe949f39d3bb191"
+tailwindcss@4.0.8:
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-4.0.8.tgz#25d7fed091aacd16e2a3b8b86d51eea0a482fb1c"
 
 tapable@^2.2.0:
   version "2.2.1"
