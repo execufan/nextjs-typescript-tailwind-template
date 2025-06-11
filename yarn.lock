@@ -2185,9 +2185,9 @@ tabbable@^6.0.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/tabbable/-/tabbable-6.2.0.tgz#732fb62bc0175cfcec257330be187dcfba1f3b97"
 
-tailwind-merge@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/tailwind-merge/-/tailwind-merge-3.1.0.tgz#451460cf5580b2da1120b45076e114814d593a36"
+tailwind-merge@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/tailwind-merge/-/tailwind-merge-3.3.1.tgz#a7e7db7c714f6020319e626ecfb7e7dac8393a4b"
 
 tailwindcss@4.1.8:
   version "4.1.8"
